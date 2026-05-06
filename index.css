@@ -139,3 +139,11 @@ footer{
     background-color: #ececec;
     padding: 25px;
 }
+
+.contenedores{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+
